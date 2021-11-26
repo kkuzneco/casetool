@@ -1,0 +1,143 @@
+wonder - задаваться вопросом
+Greek word - греческое слово
+by origin - по происхождению
+etymologically -этимологичеки
+acquired knowledge - усвоить знания
+knowledge acquirable by lear ning - знания, полученные путем обучения
+general - общие
+contraction - сокращение
+celebrated - знаменитая
+regular -обычный
+incidental - случайный, побочный, незначительный
+mental - умественный
+modern sense - современном понимании
+implications -значение
+connotations - коннотации
+no neat,simple, general and unique answer  - нет четкого, простого, общего и однозначного ответа
+viewed as a whole - рассматриваема в целом
+collection of branches  -совокупность отраслей
+branch - ветвь
+builds on the ordinary whole numbers, fractions, and irrational numbers - основана на обычных целых числах, дробях
+и иррациональных числах
+or what collectively, is called the real number system - или на том, что в совокупности называется системой действительных чисел
+the calculus - исчисление
+differential equations - дифференциальные уравнения
+various - различные
+logical order - логический порядок
+developments of the real number system - развитие системы вещественных чисел
+termed - называется
+consisting - состоящая
+divisions - разделы
+certain concepts - определенных понятий
+verify - проверять
+explicitly stated axioms - явно сформулированные аксиомы
+distributive - распределительный
+two points determine a line - две точки определяют линии
+deduced - выводятся
+Hence - следовательно
+from the standpoint - с точки зрения
+essential components of any compartment -важнейшими компонентами любого раздела 
+separately taught subjects - отдельные преподаваемые предметы
+compartmentaiization taken as a necessity - разделение, принятое как необходимость
+compensated - компенсированный
+interrelati onships of the various areas and the importance of maths for other domains - взаимосвязь различных областей и важность математики для других областей
+additive - дополнение
+inseparable part - неотъемлемая часть
+significance - значение
+intimate - тесная (связь)
+The basic concepts - базовые понятия
+implied - подразумевается
+obvious physical counterparts - очевидными физическими аналогами
+noteworthy - примечательно
+in essence - по сути
+and so forth - и так далее
+are not wholly abstracted  - не полномтью абстрагированы
+notion of entirely new types - представление о собершенно новых типах
+The notion of a variable that represents the quantitative values of some changing physical phenomena  - Понятие переменной, которая представляет количественные значения некоторых изменяющихся физических явлений
+beyond the mere observation of change - за пределами простого наблюдения за изменениями
+divorced and remote - оторванными и далекими
+gradual introduction - постепенное внедрение
+depart from - покинуть
+drawn from - черпаются из
+built on earlier notions - строятся на более ранних понятиях
+unpleasant consequences- неприятные послежствия
+advanced - продвинутые
+were considered - рассматривались
+the second major component - второй важный компонент
+self-evident truths - самоочевидные истины
+concepts involved - соответствующих терминах
+that this view ought to be given up - что от этой точки зрения следует отказаться
+ objective - цель
+incredible - невероятный
+rise to - приводят
+deductive reasoning - дедуктивными рассуждениями 
+Growth of - развитие
+no bearing - не влияют
+Accordingly - соответственно
+ investigate - исследовать
+immediate applications - непосредственное применение
+objective - объективный
+merely - просто, только
+entirely - полностью
+regarded - рассмотрены
+ incorporated - включенные
+ disclosure - раскрытие
+ contrary view holds- противоположная точка зраения гласит
+distinguishes  - различает
+represent - представлять, изображать
+generalizations - обобщение
+ of certain - определенных
+according to this viewpoint - согласно тэтой точке зрения
+in every respect - во всех отношениях
+claim that pure maths - утверждают что чистая математика
+----------------------------------------------------------
+foremost reasons - главных причин
+riot meant to imply  не означает что
+implies - подразумевает
+layman - непрофессионал
+ scope -масштабах
+an unspoken - невысказанный, молчаливый
+the same throughout - одинаков
+particular spoken - особый разговорный
+Hebrew - иврит
+determines its true aspect - определяет ее истинный аспект
+ With the aid - при помощи
+make transition - совершать переход
+reasoning - рассуждения
+ free to grasp the fundamental ideas of the subject matter - свободным для понимания фундаментальных идей предмета
+ representation - представление
+ communication of sounds - передача звуков
+expresses quantitatively relations and spatial forms symbolically - выражает количественные отношения и пространственные формы символически
+Unlike the common language - в отличие от общего языка
+product of custom - продукт обычаев
+ as well as social and political movements - а также социальных и политических движений
+purposefully and often ingeniously designed - целенаправленно и часто гениально разработан
+By virtue of its compactness, it permits a mathematician to work with ideas which when expressed in terms of common language are unmanageable. 
+-В силу своей компактности он позволяет математику работать с идеями, которые, будучи выражены в терминах общего языка, не поддаются управлению. 
+precise and concise - точен и лаконичен
+confusing to people unaccustomed to its forms - сбивает с толку людей необычных/непривычных(???) к его формам
+ is essential to distinguish meanings often confused in common speech - необходим для различия значений которые часто путают в обычной речи
+ brevity and formal perfection - краткость и формальное совершенство
+Let us suppose we wish to express in general terms the Pythagorean theorem, well-familiar to every student through his high-school studies. 
+- Предположим, мы хотим выразить в общих чертах теорему Пифагора, хорошо знакомую каждому студенту по его учебе в средней школе. 
+construct - построить
+arm of the triangle - сторона треугольника
+ and if we construct a square having the hypotenuse of the triangle for its side, then the area of the third square is equal to the sum of the areas of the first two
+- и если мы построим квадрат, имеющий гипотенузу треугольника для его стороны, то площадь третьего квадрата равна сумме площадей первых двух
+This economy of words makes for conciseness of presentation, and math writing is remarkable
+because it encompasses much in few words.
+-Такая экономия слов обеспечивает лаконичность изложения, а математическое письмо примечательно, потому что оно охватывает многое в нескольких словах
+must be devoted - должно быть посвящено
+to the expressing of verbally stated facts in math language, that is, in the signs and symbols of maths
+-выражению устно изложенных фактов на математическом языке, то есть в знаках и символах математики; 
+convenience - удобсьво
+abbreviations - сокращение
+often they have no such relations to the thing t hey stand for - часто не имеют отношения к тому что означают
+ by common agreement or by definition. - по общему согласию или по определению
+presupposes clear and definite knowledge of what prec edes - предполагает четкое и определенное знание того , что предшествует
+discouraging to weak minds, those who arc not able to master the subject. - обескураживает слабые умы, тех, кто не в состоянии овладеть предметом. 
+----------------------------------------------------------------------------------------------------------------------
+
+
+
+
