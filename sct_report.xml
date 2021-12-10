@@ -1,0 +1,2348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test-suite-result xmlns="urn:model.allure.qatools.yandex.ru" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" start="1639151590000" stop="1639151917000" version="Версия, но где ее взять">
+	<name xmlns="">Smoke test (запускать при каждом обновлении)</name>
+	<title xmlns=""/>
+	<description xmlns="" xmlns:d2p1="urn:model.allure.qatools.yandex.ru" type="text"/>
+	<labels xmlns="" xmlns:d2p1="urn:model.allure.qatools.yandex.ru">
+		<label name="НомерПакета" value="0000008"/>
+		<label name="НавигационнаяСсылка" value="e1cib/data/Справочник.Пакеты?ref=825818a90595a6f911e5f7dbcc5f4986"/>
+		<label name="Агент" value=""/>
+		<label name="Каталог" value=""/>
+	</labels>
+	<test-cases xmlns="" xmlns:d2p1="urn:model.allure.qatools.yandex.ru">
+		<test-case start="1639151599000" stop="1639151599000" status="canceled" severity="normal">
+			<name>f1badc65-f557-4e3d-a245-b8bf06f2bf6a</name>
+			<title>1.0.28.1, Формула ЖКЖ (ИБ файловая, 8.3.18.1433)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>7573c232-e1d1-46c9-b010-5e96bd3d9af0</name>
+			<title>Обновление из  основного хранилища</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>5c1bd439-5b0d-4e9f-b521-1fb3157020f6</name>
+			<title>Создание файла поставки</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151600000" stop="1639151600000" status="canceled" severity="normal">
+			<name>18708b78-34d0-48cb-99fe-c5129c5a7cbc</name>
+			<title>1.0.28.1, Формула ЖКЖ (ИБ файловая, 8.3.18.1433)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>fb39e3ae-96be-404f-ad3b-a0f22f824708</name>
+			<title>Обновление из подрелизного хранилища</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>85bf6361-9d9f-4fda-9b15-64ee73491c40</name>
+			<title>Создание файла поставки</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151600000" stop="1639151600000" status="canceled" severity="normal">
+			<name>31c123ae-c65c-4e8b-bc52-29f320fb8895</name>
+			<title>1.0.28.1, Формула ЖКЖ (ИБ файловая, 8.3.18.1433)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>4aa300c4-1015-4617-a2f1-ceb6ab50cde1</name>
+			<title>Обновление из хранилища для сертификации 34.02</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>6c78bda1-47e8-44d9-8248-d05d0af57f45</name>
+			<title>Создание файла поставки</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151601000" stop="1639151604000" status="passed" severity="normal">
+			<name>a1cf1a1c-0095-4cfa-ab21-3910fe648d3a</name>
+			<title>1.0.28.1, Формула ЖКЖ (ИБ файловая, 8.3.18.1433)</title>
+			<failure>
+				<message>Группа информационной базы выполнена.</message>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151604000" stop="1639151604000" status="canceled" severity="normal">
+			<name>2afb622b-d80e-49e8-ab65-867cf7fdbe71</name>
+			<title>Создать тестовую ИБ из архива: "ОткрытиеСправочников" (Smoke Testing (Формула))</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151605000" stop="1639151605000" status="canceled" severity="normal">
+			<name>959e648c-1074-4c35-aa9d-26330540c0a1</name>
+			<title>Обновить ИБ (\\FGKHDistrib\testing\Пакетное выполнение\Пакет_0000008\1Cv8.cf)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151606000" stop="1639151606000" status="canceled" severity="normal">
+			<name>949bcbbf-3ea3-452d-9882-0e3a409be224</name>
+			<title>Пакетный запуск предприятия (подключение)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151606000" stop="1639151606000" status="canceled" severity="normal">
+			<name>c8584816-2f44-4235-949b-f9dd01c84011</name>
+			<title>Пакетный запуск предприятия (включение)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151607000" stop="1639151607000" status="canceled" severity="normal">
+			<name>7e0a786f-f778-4350-a3a4-de2c95db0698</name>
+			<title>Запустить тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151607000" stop="1639151607000" status="canceled" severity="normal">
+			<name>2975e96c-3d45-4494-916a-bd5051e057be</name>
+			<title>Пауза</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151608000" stop="1639151608000" status="canceled" severity="normal">
+			<name>7cc79209-3eb4-4bd2-84a1-3b3cafc507a7</name>
+			<title>Закрыть тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151609000" stop="1639151609000" status="canceled" severity="normal">
+			<name>9663be7b-6e77-4455-868e-c944f74fbd86</name>
+			<title>Запустить тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151609000" stop="1639151609000" status="canceled" severity="normal">
+			<name>1e01e1c4-519c-468e-b511-7dd1829b8765</name>
+			<title>Открыть сценарий для выполнения</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151610000" stop="1639151610000" status="canceled" severity="normal">
+			<name>5dd5e121-6844-4a9f-96bc-c501b22f0fa3</name>
+			<title>Выполнить интерактивные шаги</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+			<steps/>
+		</test-case>
+		<test-case start="1639151610000" stop="1639151610000" status="canceled" severity="normal">
+			<name>912f74db-16b8-4c1d-9290-77f18ca3db86</name>
+			<title>Закрыть тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151611000" stop="1639151611000" status="canceled" severity="normal">
+			<name>5f58c09e-2480-4f45-956a-858c42a6d257</name>
+			<title>1.0.28.1, Формула ЖКЖ (ИБ файловая, 8.3.18.1433)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>3a5e72ee-c4c4-4a9e-90c0-a218262890c0</name>
+			<title>Запустить тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>a15c6542-7335-48e6-bf8a-b5984a1d363a</name>
+			<title>Открыть сценарий для выполнения (Документы)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>12578afb-319e-4071-8c59-eef6ee54a8b7</name>
+			<title>Выполнить интерактивные шаги</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+			<steps/>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>1003f5fa-2e0f-4816-850c-97aab3137c59</name>
+			<title>Закрыть тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151612000" stop="1639151612000" status="canceled" severity="normal">
+			<name>1842d7cb-db8a-4b37-beea-8ea7d8632ae8</name>
+			<title>1.0.28.1, Формула ЖКЖ (ИБ файловая, 8.3.18.1433)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>a21035fc-d972-402a-acd7-c1b1aef3fe75</name>
+			<title>Запустить тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>3b826040-d3ed-4118-a798-d4d7e3f9447a</name>
+			<title>Открыть сценарий для выполнения (Отчеты)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>6e9ebacd-83b6-4761-bee6-b25326bec1da</name>
+			<title>Выполнить интерактивные шаги</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+			<steps/>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>fc0cedb0-2089-459e-975a-c249546a9a9d</name>
+			<title>Закрыть тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151612000" stop="1639151612000" status="canceled" severity="normal">
+			<name>40926d6f-b320-40c9-ae72-3b2f164596fb</name>
+			<title>1.0.28.1, Формула ЖКЖ (ИБ файловая, 8.3.18.1433)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>b94e1278-14a0-47b2-881d-34408586757a</name>
+			<title>Запустить тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>34874f78-1b66-415d-9e6c-8041175c46c7</name>
+			<title>Открыть сценарий для выполнения (Регистры)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>a2a328ca-65f6-4233-b443-544831a9f7ec</name>
+			<title>Выполнить интерактивные шаги</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+			<steps/>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>52ac344d-e140-46f2-9ff1-6b742b72126f</name>
+			<title>Закрыть тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151613000" stop="1639151615000" status="passed" severity="normal">
+			<name>ef64053e-372f-4536-ab4d-9859d79a4c80</name>
+			<title>1.0.28.1, Формула ЖКЖ (ИБ файловая, 8.3.18.1433)</title>
+			<failure>
+				<message>Группа информационной базы выполнена.</message>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151616000" stop="1639151633000" status="passed" severity="normal">
+			<name>e46436e8-a54e-4b60-b6cc-89bce27e887f</name>
+			<title>Запустить тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151633000" stop="1639151638000" status="passed" severity="normal">
+			<name>9249c09a-7376-4cbb-8000-b73d31af3624</name>
+			<title>Открыть сценарий для выполнения (Обработки)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151639000" stop="1639151913000" status="failed" severity="normal">
+			<name>05ea5065-ffdd-4f0a-98c6-69312b9a3f3a</name>
+			<title>Выполнить интерактивные шаги</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+			<steps>
+				<step start="1639151641000" stop="1639151641000" status="passed">
+					<name>1</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икАвтоматическоеСозданиеКонтрагентовИДоговоров"</title>
+					<steps/>
+				</step>
+				<step start="1639151641000" stop="1639151641000" status="passed">
+					<name>2</name>
+					<title>Форма "Автоматическое создание контрагентов и договоров"</title>
+					<steps>
+						<step start="1639151641000" stop="1639151641000" status="passed">
+							<name>3</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151642000" stop="1639151642000" status="passed">
+					<name>4</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икВсеФункции"</title>
+					<steps/>
+				</step>
+				<step start="1639151642000" stop="1639151642000" status="passed">
+					<name>5</name>
+					<title>Форма "Все функции"</title>
+					<steps>
+						<step start="1639151642000" stop="1639151642000" status="passed">
+							<name>6</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151643000" stop="1639151643000" status="passed">
+					<name>7</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икВводПоказанийПриборовУчета"</title>
+					<steps/>
+				</step>
+				<step start="1639151644000" stop="1639151644000" status="passed">
+					<name>8</name>
+					<title>Форма "Ввод показаний приборов учета"</title>
+					<steps>
+						<step start="1639151644000" stop="1639151644000" status="passed">
+							<name>9</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151644000" stop="1639151644000" status="passed">
+					<name>10</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икВыгрузкаДанныхВБП"</title>
+					<steps/>
+				</step>
+				<step start="1639151644000" stop="1639151644000" status="passed">
+					<name>11</name>
+					<title>Форма "Выгрузка данных в 1С:Бухгалтерия 8"</title>
+					<steps>
+						<step start="1639151645000" stop="1639151645000" status="passed">
+							<name>12</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151645000" stop="1639151645000" status="passed">
+					<name>13</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икВыгрузкаДанныхДляИмпортаВГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151645000" stop="1639151645000" status="passed">
+					<name>14</name>
+					<title>Форма "Выгрузка данных для импорта в ГИС ЖКХ"</title>
+					<steps>
+						<step start="1639151645000" stop="1639151645000" status="passed">
+							<name>15</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151646000" stop="1639151646000" status="passed">
+					<name>16</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икВыгрузкаДанныхПоСистемеГород"</title>
+					<steps/>
+				</step>
+				<step start="1639151646000" stop="1639151646000" status="passed">
+					<name>17</name>
+					<title>Форма "Выгрузка данных по системе ИСППН "Город""</title>
+					<steps>
+						<step start="1639151646000" stop="1639151646000" status="passed">
+							<name>18</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151647000" stop="1639151647000" status="passed">
+					<name>19</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икВыгрузкаИнформацииОВнесенииПлатыВГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151647000" stop="1639151647000" status="passed">
+					<name>20</name>
+					<title>Форма "Обработка.икВыгрузкаИнформацииОВнесенииПлатыВГИСЖКХ.Форма.Форма"</title>
+					<steps>
+						<step start="1639151647000" stop="1639151647000" status="passed">
+							<name>21</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151648000" stop="1639151648000" status="passed">
+					<name>22</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икВыгрузкаПлатежныхДокументовВГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151648000" stop="1639151648000" status="passed">
+					<name>23</name>
+					<title>Форма "Выгрузка платежных документов в ГИС ЖКХ"</title>
+					<steps>
+						<step start="1639151648000" stop="1639151648000" status="passed">
+							<name>24</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151648000" stop="1639151648000" status="passed">
+					<name>25</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икВыгрузкаПоказанийПриборовУчетаВГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151649000" stop="1639151649000" status="passed">
+					<name>26</name>
+					<title>Форма "Выгрузка показаний приборов учета в ГИС ЖКХ"</title>
+					<steps>
+						<step start="1639151649000" stop="1639151649000" status="passed">
+							<name>27</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151649000" stop="1639151649000" status="passed">
+					<name>28</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икВыгрузкаЗагрузкаЛьготниковКарелия"</title>
+					<steps/>
+				</step>
+				<step start="1639151650000" stop="1639151650000" status="passed">
+					<name>29</name>
+					<title>Форма "Выгрузка/загрузка льготников (Карелия)"</title>
+					<steps>
+						<step start="1639151650000" stop="1639151650000" status="passed">
+							<name>30</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151650000" stop="1639151650000" status="passed">
+					<name>31</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икВыгрузкаЗадолженности"</title>
+					<steps/>
+				</step>
+				<step start="1639151650000" stop="1639151650000" status="passed">
+					<name>32</name>
+					<title>Форма "Выгрузка задолженности"</title>
+					<steps>
+						<step start="1639151651000" stop="1639151651000" status="passed">
+							<name>33</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151651000" stop="1639151651000" status="passed">
+					<name>34</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икГрупповоеЗакрытиеЛицевыхСчетов"</title>
+					<steps/>
+				</step>
+				<step start="1639151651000" stop="1639151651000" status="passed">
+					<name>35</name>
+					<title>Форма "Групповое закрытие лицевых счетов"</title>
+					<steps>
+						<step start="1639151651000" stop="1639151651000" status="passed">
+							<name>36</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151652000" stop="1639151652000" status="passed">
+					<name>37</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.ГрупповоеИзменениеРеквизитов"</title>
+					<steps/>
+				</step>
+				<step start="1639151652000" stop="1639151652000" status="passed">
+					<name>38</name>
+					<title>Форма "Групповое изменение реквизитов"</title>
+					<steps>
+						<step start="1639151652000" stop="1639151652000" status="passed">
+							<name>39</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151653000" stop="1639151653000" status="passed">
+					<name>40</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икГрупповоеИзменениеВидаОбъектовУчета"</title>
+					<steps/>
+				</step>
+				<step start="1639151653000" stop="1639151653000" status="passed">
+					<name>41</name>
+					<title>Форма "Групповое изменение вида объектов учета"</title>
+					<steps>
+						<step start="1639151653000" stop="1639151653000" status="passed">
+							<name>42</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151654000" stop="1639151654000" status="passed">
+					<name>43</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икГрупповоеНачислениеЗаУслуги"</title>
+					<steps/>
+				</step>
+				<step start="1639151654000" stop="1639151654000" status="passed">
+					<name>44</name>
+					<title>Форма "Групповое начисление за услуги"</title>
+					<steps>
+						<step start="1639151654000" stop="1639151654000" status="passed">
+							<name>45</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151654000" stop="1639151654000" status="passed">
+					<name>46</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икГрупповоеПодключениеПриборовУчета"</title>
+					<steps/>
+				</step>
+				<step start="1639151655000" stop="1639151655000" status="passed">
+					<name>47</name>
+					<title>Форма "Групповое подключение приборов учета"</title>
+					<steps>
+						<step start="1639151655000" stop="1639151655000" status="passed">
+							<name>48</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151655000" stop="1639151655000" status="passed">
+					<name>49</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икГрупповойПерерасчетНачисленийЗаУслуги"</title>
+					<steps/>
+				</step>
+				<step start="1639151656000" stop="1639151656000" status="passed">
+					<name>50</name>
+					<title>Форма "Групповой перерасчет начислений за услуги"</title>
+					<steps>
+						<step start="1639151656000" stop="1639151656000" status="passed">
+							<name>51</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151656000" stop="1639151656000" status="passed">
+					<name>52</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икЗагрузкаДанныхПоСистемеГород"</title>
+					<steps/>
+				</step>
+				<step start="1639151656000" stop="1639151656000" status="passed">
+					<name>53</name>
+					<title>Форма "Загрузка данных по системе ИСППН "Город""</title>
+					<steps>
+						<step start="1639151657000" stop="1639151657000" status="passed">
+							<name>54</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151657000" stop="1639151657000" status="passed">
+					<name>55</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.ЖурналРегистрации"</title>
+					<steps/>
+				</step>
+				<step start="1639151657000" stop="1639151657000" status="passed">
+					<name>56</name>
+					<title>Форма "Журнал регистрации"</title>
+					<steps>
+						<step start="1639151657000" stop="1639151657000" status="passed">
+							<name>57</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151658000" stop="1639151658000" status="passed">
+					<name>58</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икВыгрузкаДоговоровРесурсоснабжения"</title>
+					<steps/>
+				</step>
+				<step start="1639151658000" stop="1639151658000" status="passed">
+					<name>59</name>
+					<title>Форма "Выгрузка договоров ресурсоснабжения"</title>
+					<steps>
+						<step start="1639151658000" stop="1639151658000" status="passed">
+							<name>60</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151659000" stop="1639151659000" status="passed">
+					<name>61</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икЗагрузкаДоговоровРесурсоснабжения"</title>
+					<steps/>
+				</step>
+				<step start="1639151659000" stop="1639151659000" status="passed">
+					<name>62</name>
+					<title>Форма "Загрузка договоров ресурсоснабжения"</title>
+					<steps>
+						<step start="1639151659000" stop="1639151659000" status="passed">
+							<name>63</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151660000" stop="1639151660000" status="passed">
+					<name>64</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икЗагрузкаДанныхИзГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151660000" stop="1639151660000" status="passed">
+					<name>65</name>
+					<title>Форма "Загрузка данных из ГИС ЖКХ"</title>
+					<steps>
+						<step start="1639151660000" stop="1639151660000" status="passed">
+							<name>66</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151660000" stop="1639151660000" status="passed">
+					<name>67</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икЗагрузкаОплаты"</title>
+					<steps/>
+				</step>
+				<step start="1639151660000" stop="1639151660000" status="passed">
+					<name>68</name>
+					<title>Форма "Загрузка оплаты услуг"</title>
+					<steps>
+						<step start="1639151661000" stop="1639151661000" status="passed">
+							<name>69</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151661000" stop="1639151661000" status="passed">
+					<name>70</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икЗагрузкаПоказанийПриборовУчета"</title>
+					<steps/>
+				</step>
+				<step start="1639151661000" stop="1639151661000" status="passed">
+					<name>71</name>
+					<title>Форма "Загрузка показаний приборов учета"</title>
+					<steps>
+						<step start="1639151662000" stop="1639151662000" status="passed">
+							<name>72</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151662000" stop="1639151662000" status="passed">
+					<name>73</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икИнтеграцияСГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151662000" stop="1639151662000" status="passed">
+					<name>74</name>
+					<title>Форма "Интеграция с "ГИС ЖКХ""</title>
+					<steps>
+						<step start="1639151662000" stop="1639151662000" status="passed">
+							<name>75</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151663000" stop="1639151663000" status="passed">
+					<name>76</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икИнтеграцияСРеформаЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151663000" stop="1639151663000" status="passed">
+					<name>77</name>
+					<title>Форма "Интеграция с "Реформа ЖКХ""</title>
+					<steps>
+						<step start="1639151663000" stop="1639151663000" status="passed">
+							<name>78</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151663000" stop="1639151663000" status="passed">
+					<name>79</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икКвитированиеГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151664000" stop="1639151664000" status="passed">
+					<name>80</name>
+					<title>Найти форму с именем "Обработка.икКвитированиеГИСЖКХ.Форма.Форма"</title>
+					<steps>
+						<step start="1639151664000" stop="1639151664000" status="passed">
+							<name>81</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151664000" stop="1639151664000" status="passed">
+					<name>82</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икКупляПродажаОбъектаУчета"</title>
+					<steps/>
+				</step>
+				<step start="1639151665000" stop="1639151665000" status="passed">
+					<name>83</name>
+					<title>Форма "Купля - продажа объекта учета"</title>
+					<steps>
+						<step start="1639151665000" stop="1639151665000" status="passed">
+							<name>84</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151665000" stop="1639151665000" status="passed">
+					<name>85</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.НастройкаРезервногоКопированияИБ"</title>
+					<steps/>
+				</step>
+				<step start="1639151665000" stop="1639151665000" status="passed">
+					<name>86</name>
+					<title>Форма "Настройка резервного копирования"</title>
+					<steps>
+						<step start="1639151666000" stop="1639151666000" status="passed">
+							<name>87</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151666000" stop="1639151666000" status="passed">
+					<name>88</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.НастройкиПользователей"</title>
+					<steps/>
+				</step>
+				<step start="1639151666000" stop="1639151666000" status="passed">
+					<name>89</name>
+					<title>Форма "Настройки пользователей"</title>
+					<steps>
+						<step start="1639151666000" stop="1639151666000" status="passed">
+							<name>90</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151667000" stop="1639151667000" status="passed">
+					<name>91</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икОбращениеВТехническуюПоддержку"</title>
+					<steps/>
+				</step>
+				<step start="1639151667000" stop="1639151667000" status="passed">
+					<name>92</name>
+					<title>Форма "&lt;без заголовка&gt; (Обработка.икОбращениеВТехническуюПоддержку.Форма.ОбращениеВПоддержку)"</title>
+					<steps>
+						<step start="1639151668000" stop="1639151668000" status="passed">
+							<name>93</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151668000" stop="1639151668000" status="passed">
+					<name>94</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икОтзывПлатежныхДокументовГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151668000" stop="1639151668000" status="passed">
+					<name>95</name>
+					<title>Форма "Отзыв платежных документов ГИС ЖКХ"</title>
+					<steps>
+						<step start="1639151668000" stop="1639151668000" status="passed">
+							<name>96</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151669000" stop="1639151669000" status="passed">
+					<name>97</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икОтчетОВыпадающихДоходахГЦЖС"</title>
+					<steps/>
+				</step>
+				<step start="1639151669000" stop="1639151669000" status="passed">
+					<name>98</name>
+					<title>Найти форму с именем "Обработка.икОтчетОВыпадающихДоходахГЦЖС.Форма.Форма"</title>
+					<steps>
+						<step start="1639151669000" stop="1639151669000" status="passed">
+							<name>99</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151670000" stop="1639151670000" status="passed">
+					<name>100</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151670000" stop="1639151670000" status="passed">
+					<name>101</name>
+					<title>Найти форму с именем "Обработка.икГИСЖКХ.Форма.Форма"</title>
+					<steps>
+						<step start="1639151670000" stop="1639151670000" status="passed">
+							<name>102</name>
+							<title>Найти форму с именем "Обработка.икГИСЖКХ.Форма.ФормаПодготовкиКРаботе"</title>
+							<steps>
+								<step start="1639151670000" stop="1639151670000" status="passed">
+									<name>103</name>
+									<title>Закрыть окно текущей формы</title>
+									<steps/>
+								</step>
+							</steps>
+						</step>
+						<step start="1639151671000" stop="1639151671000" status="passed">
+							<name>104</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151671000" stop="1639151671000" status="passed">
+					<name>105</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икСинхронизацияСЛичнымКабинетом"</title>
+					<steps/>
+				</step>
+				<step start="1639151672000" stop="1639151672000" status="passed">
+					<name>106</name>
+					<title>Форма "Обмен с личным кабинетом"</title>
+					<steps>
+						<step start="1639151672000" stop="1639151672000" status="passed">
+							<name>107</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151672000" stop="1639151672000" status="passed">
+					<name>108</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икОтправкаЭлектронныхПисем"</title>
+					<steps/>
+				</step>
+				<step start="1639151673000" stop="1639151673000" status="passed">
+					<name>109</name>
+					<title>Форма "Отправка электронных писем"</title>
+					<steps>
+						<step start="1639151673000" stop="1639151673000" status="passed">
+							<name>110</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151673000" stop="1639151673000" status="passed">
+					<name>111</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икПакетнаяОбработкаПретензий"</title>
+					<steps/>
+				</step>
+				<step start="1639151673000" stop="1639151673000" status="passed">
+					<name>112</name>
+					<title>Форма "Пакетная обработка претензий"</title>
+					<steps>
+						<step start="1639151674000" stop="1639151674000" status="passed">
+							<name>113</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151674000" stop="1639151674000" status="passed">
+					<name>114</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икПечатьАдресныхЛистковИЛистковСтатистическогоУчета"</title>
+					<steps/>
+				</step>
+				<step start="1639151674000" stop="1639151674000" status="passed">
+					<name>115</name>
+					<title>Форма "Печать адресных листков и листков статистического учета"</title>
+					<steps>
+						<step start="1639151675000" stop="1639151675000" status="passed">
+							<name>116</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151675000" stop="1639151675000" status="passed">
+					<name>117</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икПодключениеПриборовУчета"</title>
+					<steps/>
+				</step>
+				<step start="1639151675000" stop="1639151675000" status="passed">
+					<name>118</name>
+					<title>Форма "Подключение приборов учета к лицевому счету"</title>
+					<steps>
+						<step start="1639151675000" stop="1639151675000" status="passed">
+							<name>119</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151676000" stop="1639151676000" status="passed">
+					<name>120</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.ПоискИУдалениеДублей"</title>
+					<steps/>
+				</step>
+				<step start="1639151676000" stop="1639151676000" status="passed">
+					<name>121</name>
+					<title>Форма "Поиск и удаление дублей"</title>
+					<steps>
+						<step start="1639151677000" stop="1639151677000" status="passed">
+							<name>122</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151677000" stop="1639151677000" status="passed">
+					<name>123</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икПомощникЗагрузкиДанных"</title>
+					<steps/>
+				</step>
+				<step start="1639151677000" stop="1639151677000" status="passed">
+					<name>124</name>
+					<title>Форма "Помощник загрузки данных"</title>
+					<steps>
+						<step start="1639151677000" stop="1639151677000" status="passed">
+							<name>125</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151679000" stop="1639151679000" status="passed">
+					<name>126</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икПомощникЗаполненияДанныхДляГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151679000" stop="1639151679000" status="passed">
+					<name>127</name>
+					<title>Форма "Помощник заполнения данных по объектам учета для ГИС ЖКХ"</title>
+					<steps>
+						<step start="1639151679000" stop="1639151679000" status="passed">
+							<name>128</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+						<step start="1639151679000" stop="1639151679000" status="passed">
+							<name>129</name>
+							<title>Форма "1С:Предприятие"</title>
+							<steps>
+								<step start="1639151680000" stop="1639151680000" status="passed">
+									<name>130</name>
+									<title>Нажать на кнопку "Button0"</title>
+									<steps/>
+								</step>
+							</steps>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151681000" stop="1639151681000" status="passed">
+					<name>131</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икПомощникЗаполненияДанныхПоПриборамУчетаДляГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151681000" stop="1639151681000" status="passed">
+					<name>132</name>
+					<title>Форма "Помощник заполнения данных по приборам учета для ГИС ЖКХ"</title>
+					<steps>
+						<step start="1639151681000" stop="1639151681000" status="passed">
+							<name>133</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151682000" stop="1639151682000" status="passed">
+					<name>134</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.РегламентныеИФоновыеЗадания</title>
+					<steps/>
+				</step>
+				<step start="1639151682000" stop="1639151682000" status="passed">
+					<name>135</name>
+					<title>Форма "Регламентные и фоновые задания"</title>
+					<steps>
+						<step start="1639151682000" stop="1639151682000" status="passed">
+							<name>136</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151683000" stop="1639151683000" status="passed">
+					<name>137</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икРедактированиеХарактеристикПрочихОбъектов"</title>
+					<steps/>
+				</step>
+				<step start="1639151683000" stop="1639151683000" status="passed">
+					<name>138</name>
+					<title>Форма "Редактирование характеристик прочих объектов"</title>
+					<steps>
+						<step start="1639151683000" stop="1639151683000" status="passed">
+							<name>139</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151684000" stop="1639151684000" status="passed">
+					<name>140</name>
+					<title>e1cib/app/Обработка.РезервноеКопированиеИБ</title>
+					<steps/>
+				</step>
+				<step start="1639151684000" stop="1639151684000" status="passed">
+					<name>141</name>
+					<title>Форма "Создание резервной копии"</title>
+					<steps>
+						<step start="1639151684000" stop="1639151684000" status="passed">
+							<name>142</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151684000" stop="1639151684000" status="passed">
+					<name>143</name>
+					<title>e1cib/app/Обработка.РезультатыОбновленияПрограммы</title>
+					<steps/>
+				</step>
+				<step start="1639151685000" stop="1639151685000" status="passed">
+					<name>144</name>
+					<title>Форма "Результаты обновления программы"</title>
+					<steps>
+						<step start="1639151685000" stop="1639151685000" status="passed">
+							<name>145</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151685000" stop="1639151685000" status="passed">
+					<name>146</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икИнтеграцияССУО"</title>
+					<steps/>
+				</step>
+				<step start="1639151685000" stop="1639151685000" status="passed">
+					<name>147</name>
+					<title>Форма "Интеграция с сайтом управляющей организации"</title>
+					<steps>
+						<step start="1639151686000" stop="1639151686000" status="passed">
+							<name>148</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151686000" stop="1639151686000" status="passed">
+					<name>149</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икСистемаГород"</title>
+					<steps/>
+				</step>
+				<step start="1639151686000" stop="1639151686000" status="passed">
+					<name>150</name>
+					<title>Форма "Система "Город""</title>
+					<steps>
+						<step start="1639151687000" stop="1639151687000" status="passed">
+							<name>151</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151687000" stop="1639151687000" status="passed">
+					<name>152</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икСистемаЛицензирования"</title>
+					<steps/>
+				</step>
+				<step start="1639151687000" stop="1639151687000" status="passed">
+					<name>153</name>
+					<title>Форма "Система лицензирования: Система лицензирования"</title>
+					<steps>
+						<step start="1639151688000" stop="1639151688000" status="passed">
+							<name>154</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151688000" stop="1639151688000" status="passed">
+					<name>155</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икСменаРасчетногоПериода"</title>
+					<steps/>
+				</step>
+				<step start="1639151688000" stop="1639151688000" status="passed">
+					<name>156</name>
+					<title>Форма "Смена расчетного периода"</title>
+					<steps>
+						<step start="1639151688000" stop="1639151688000" status="passed">
+							<name>157</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151689000" stop="1639151689000" status="passed">
+					<name>158</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икСозданиеНовыхПретензий"</title>
+					<steps/>
+				</step>
+				<step start="1639151689000" stop="1639151689000" status="passed">
+					<name>159</name>
+					<title>Форма "Создание новых претензий"</title>
+					<steps>
+						<step start="1639151689000" stop="1639151689000" status="passed">
+							<name>160</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151690000" stop="1639151690000" status="passed">
+					<name>161</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икСтартовыйПомощник"</title>
+					<steps/>
+				</step>
+				<step start="1639151691000" stop="1639151691000" status="passed">
+					<name>162</name>
+					<title>Найти форму с именем "Обработка.икСтартовыйПомощник.Форма.Форма"</title>
+					<steps>
+						<step start="1639151691000" stop="1639151691000" status="passed">
+							<name>163</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151691000" stop="1639151691000" status="passed">
+					<name>164</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.УдалениеПомеченныхОбъектов"</title>
+					<steps/>
+				</step>
+				<step start="1639151691000" stop="1639151691000" status="passed">
+					<name>165</name>
+					<title>Форма "Удаление помеченных объектов"</title>
+					<steps>
+						<step start="1639151692000" stop="1639151692000" status="passed">
+							<name>166</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151692000" stop="1639151692000" status="passed">
+					<name>167</name>
+					<title>Перейти по навигационной  ссылке e1cib/app/Обработка.УниверсальныйОбменДаннымиXML</title>
+					<steps/>
+				</step>
+				<step start="1639151692000" stop="1639151692000" status="passed">
+					<name>168</name>
+					<title>Форма "Универсальный обмен данными в формате XML (2.1.8)"</title>
+					<steps>
+						<step start="1639151693000" stop="1639151693000" status="passed">
+							<name>169</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151693000" stop="1639151693000" status="passed">
+					<name>170</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.УдалениеПомеченныхОбъектов"</title>
+					<steps/>
+				</step>
+				<step start="1639151693000" stop="1639151693000" status="passed">
+					<name>171</name>
+					<title>Форма "Обработка.УдалениеПомеченныхОбъектов.Форма.ОсновнаяФорма"</title>
+					<steps>
+						<step start="1639151693000" stop="1639151693000" status="passed">
+							<name>172</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151693000" stop="1639151693000" status="passed">
+					<name>173</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икВыгрузкаДоговоровТКО"</title>
+					<steps/>
+				</step>
+				<step start="1639151694000" stop="1639151694000" status="passed">
+					<name>174</name>
+					<title>Форма "Обработка.икВыгрузкаДоговоровТКО.Форма.Форма"</title>
+					<steps>
+						<step start="1639151694000" stop="1639151694000" status="passed">
+							<name>175</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151694000" stop="1639151694000" status="passed">
+					<name>176</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икВыгрузкаИнформацииОВнесенииПлатыВГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151695000" stop="1639151695000" status="passed">
+					<name>177</name>
+					<title>Форма "Обработка.икВыгрузкаИнформацииОВнесенииПлатыВГИСЖКХ.Форма.Форма"</title>
+					<steps>
+						<step start="1639151695000" stop="1639151695000" status="passed">
+							<name>178</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151695000" stop="1639151695000" status="passed">
+					<name>179</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.ЗагрузкаКлассификатораБанков"</title>
+					<steps/>
+				</step>
+				<step start="1639151695000" stop="1639151695000" status="passed">
+					<name>180</name>
+					<title>Форма "Обновление классификаторов"</title>
+					<steps>
+						<step start="1639151696000" stop="1639151696000" status="passed">
+							<name>181</name>
+							<title>Нажать на кнопку "Закрыть"</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151696000" stop="1639151696000" status="passed">
+					<name>182</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икГрупповоеПредоставлениеЛьготы"</title>
+					<steps/>
+				</step>
+				<step start="1639151696000" stop="1639151696000" status="passed">
+					<name>183</name>
+					<title>Форма "Обработка.икГрупповоеПредоставлениеЛьготы.Форма.Форма"</title>
+					<steps>
+						<step start="1639151696000" stop="1639151696000" status="passed">
+							<name>184</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+						<step start="1639151697000" stop="1639151697000" status="passed">
+							<name>186</name>
+							<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икЗагрузкаПоказанийПриборовУчета"</title>
+							<steps/>
+						</step>
+						<step start="1639151697000" stop="1639151697000" status="passed">
+							<name>187</name>
+							<title>Форма "Загрузка показаний приборов учета"</title>
+							<steps>
+								<step start="1639151697000" stop="1639151697000" status="passed">
+									<name>188</name>
+									<title>У поля ввода "Файл" установить значение "\\FGKHDistrib\testing\Пакетное выполнение\Пакет_000008\00001\загрузка показаний.xlsx"</title>
+									<steps/>
+								</step>
+								<step start="1639151698000" stop="1639151698000" status="passed">
+									<name>189</name>
+									<title>У поля ввода "Настройка" нажать Выбрать</title>
+									<steps/>
+								</step>
+								<step start="1639151698000" stop="1639151698000" status="passed">
+									<name>190</name>
+									<title>Форма "Настройки загрузки показаний приборов учета"</title>
+									<steps>
+										<step start="1639151698000" stop="1639151698000" status="passed">
+											<name>191</name>
+											<title>Таблица "Список"</title>
+											<steps>
+												<step start="1639151698000" stop="1639151698000" status="passed">
+													<name>192</name>
+													<title>От начала таблицы вниз найти строку</title>
+													<steps/>
+												</step>
+												<step start="1639151699000" stop="1639151699000" status="passed">
+													<name>193</name>
+													<title>Выбрать текущую строку таблицы</title>
+													<steps/>
+												</step>
+											</steps>
+										</step>
+									</steps>
+								</step>
+								<step start="1639151699000" stop="1639151699000" status="passed">
+									<name>194</name>
+									<title>У поля ввода "Дата" установить значение "26.01.2021"</title>
+									<steps/>
+								</step>
+								<step start="1639151699000" stop="1639151699000" status="passed">
+									<name>195</name>
+									<title>У поля ввода "Номер начальной строки" установить значение "1"</title>
+									<steps/>
+								</step>
+								<step start="1639151700000" stop="1639151700000" status="passed">
+									<name>196</name>
+									<title>Нажать на кнопку "Считать показания из файла"</title>
+									<steps/>
+								</step>
+								<step start="1639151701000" stop="1639151701000" status="passed">
+									<name>197</name>
+									<title>Нажать на кнопку командной панели "Загрузить показания"</title>
+									<steps/>
+								</step>
+								<step start="1639151711000" stop="1639151711000" status="passed">
+									<name>198</name>
+									<title>Подождать 10 сек</title>
+									<steps/>
+								</step>
+								<step start="1639151711000" stop="1639151711000" status="passed">
+									<name>199</name>
+									<title>Закрыть окно текущей формы</title>
+									<steps/>
+								</step>
+							</steps>
+						</step>
+						<step start="1639151712000" stop="1639151712000" status="passed">
+							<name>200</name>
+							<title>Перейти по навигационной ссылке "e1cib/list/Документ.икВводПоказанийИндивидуальныхПриборовУчета"</title>
+							<steps/>
+						</step>
+						<step start="1639151712000" stop="1639151712000" status="passed">
+							<name>201</name>
+							<title>Форма "Ввод показаний индивидуальных приборов учета"</title>
+							<steps>
+								<step start="1639151712000" stop="1639151712000" status="passed">
+									<name>202</name>
+									<title>Таблица "Список"</title>
+									<steps>
+										<step start="1639151712000" stop="1639151712000" status="passed">
+											<name>203</name>
+											<title>От начала таблицы вниз найти строку</title>
+											<steps/>
+										</step>
+										<step start="1639151713000" stop="1639151713000" status="passed">
+											<name>204</name>
+											<title>Выбрать текущую строку таблицы</title>
+											<steps/>
+										</step>
+										<step start="1639151713000" stop="1639151713000" status="passed">
+											<name>205</name>
+											<title>Форма "Ввод показаний индивидуального прибора учета ГЛ-00000001 от 26.01.2021 0:00:00"</title>
+											<steps>
+												<step start="1639151713000" stop="1639151713000" status="passed">
+													<name>206</name>
+													<title>Таблица "тзПоказанияПриборовУчета"</title>
+													<steps>
+														<step start="1639151722000" stop="1639151722000" status="failed">
+															<name>207</name>
+															<title>Сравнить всю таблицу с эталонным значением, хранящимся в шаге</title>
+															<attachments>
+																<attachment title="Screen_3" source="1984451FAF731A7EF134E788E3CF59EF-attachment.png" type="image/png"/>
+															</attachments>
+															<steps/>
+														</step>
+													</steps>
+												</step>
+												<step start="1639151722000" stop="1639151722000" status="passed">
+													<name>208</name>
+													<title>Закрыть окно текущей формы</title>
+													<steps/>
+												</step>
+											</steps>
+										</step>
+									</steps>
+								</step>
+								<step start="1639151722000" stop="1639151722000" status="passed">
+									<name>209</name>
+									<title>Закрыть окно текущей формы</title>
+									<steps/>
+								</step>
+							</steps>
+						</step>
+						<step start="1639151723000" stop="1639151723000" status="passed">
+							<name>210</name>
+							<title>Перейти по навигационной ссылке "e1cib/list/Документ.икВводПоказанийКоллективныхПриборовУчета"</title>
+							<steps/>
+						</step>
+						<step start="1639151723000" stop="1639151723000" status="passed">
+							<name>211</name>
+							<title>Форма "Ввод показаний коллективных приборов учета"</title>
+							<steps>
+								<step start="1639151723000" stop="1639151723000" status="passed">
+									<name>212</name>
+									<title>Таблица "Список"</title>
+									<steps>
+										<step start="1639151723000" stop="1639151723000" status="passed">
+											<name>213</name>
+											<title>От начала таблицы вниз найти строку</title>
+											<steps/>
+										</step>
+										<step start="1639151724000" stop="1639151724000" status="passed">
+											<name>214</name>
+											<title>Выбрать текущую строку таблицы</title>
+											<steps/>
+										</step>
+										<step start="1639151724000" stop="1639151724000" status="passed">
+											<name>215</name>
+											<title>Форма "Ввод показаний коллективного прибора учета ГЛ-00000001 от 26.01.2021 0:00:00"</title>
+											<steps>
+												<step start="1639151724000" stop="1639151724000" status="passed">
+													<name>216</name>
+													<title>Нажать на кнопку командной панели "Движения документа"</title>
+													<steps/>
+												</step>
+												<step start="1639151724000" stop="1639151724000" status="passed">
+													<name>217</name>
+													<title>Форма "Движения документа: Ввод показаний коллективного прибора учета 00-00000001 от 26.01.2021 0:00:00"</title>
+													<steps>
+														<step start="1639151725000" stop="1639151725000" status="passed">
+															<name>218</name>
+															<title>Таблица "икОбъемПотребленияОбщедомовыхНужд"</title>
+															<steps>
+																<step start="1639151725000" stop="1639151725000" status="passed">
+																	<name>219</name>
+																	<title>Сравнить всю таблицу с эталонным значением, хранящимся в шаге</title>
+																	<steps/>
+																</step>
+															</steps>
+														</step>
+														<step start="1639151725000" stop="1639151725000" status="passed">
+															<name>220</name>
+															<title>Таблица "икОбъемПотребленияПоПриборамУчета"</title>
+															<steps>
+																<step start="1639151726000" stop="1639151726000" status="passed">
+																	<name>221</name>
+																	<title>Сравнить всю таблицу с эталонным значением, хранящимся в шаге</title>
+																	<steps/>
+																</step>
+															</steps>
+														</step>
+														<step start="1639151726000" stop="1639151726000" status="passed">
+															<name>222</name>
+															<title>Таблица "икПоказанияПриборовУчета"</title>
+															<steps>
+																<step start="1639151726000" stop="1639151726000" status="passed">
+																	<name>223</name>
+																	<title>Сравнить всю таблицу с эталонным значением, хранящимся в шаге</title>
+																	<steps/>
+																</step>
+															</steps>
+														</step>
+														<step start="1639151727000" stop="1639151727000" status="passed">
+															<name>224</name>
+															<title>Закрыть окно текущей формы</title>
+															<steps/>
+														</step>
+													</steps>
+												</step>
+											</steps>
+										</step>
+									</steps>
+								</step>
+								<step start="1639151727000" stop="1639151727000" status="passed">
+									<name>225</name>
+									<title>Закрыть окно текущей формы</title>
+									<steps/>
+								</step>
+							</steps>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151727000" stop="1639151727000" status="passed">
+					<name>227</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икЗагрузкаПриборовУчетаИзГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151727000" stop="1639151727000" status="passed">
+					<name>228</name>
+					<title>Форма "Обработка.икЗагрузкаПриборовУчетаИзГИСЖКХ.Форма.Форма"</title>
+					<steps>
+						<step start="1639151728000" stop="1639151728000" status="passed">
+							<name>229</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151728000" stop="1639151728000" status="passed">
+					<name>230</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икЗакрытиеКассовыхСмен"</title>
+					<steps/>
+				</step>
+				<step start="1639151728000" stop="1639151728000" status="passed">
+					<name>231</name>
+					<title>Форма "Обработка.икЗакрытиеКассовыхСмен.Форма.Форма"</title>
+					<steps>
+						<step start="1639151728000" stop="1639151728000" status="passed">
+							<name>232</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151729000" stop="1639151729000" status="passed">
+					<name>233</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икЛичныйКабинет"</title>
+					<steps/>
+				</step>
+				<step start="1639151729000" stop="1639151729000" status="passed">
+					<name>234</name>
+					<title>Форма "Обработка.икЛичныйКабинет.Форма.Форма"</title>
+					<steps>
+						<step start="1639151730000" stop="1639151730000" status="passed">
+							<name>235</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151730000" stop="1639151730000" status="passed">
+					<name>236</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икМобильноеПриложение"</title>
+					<steps/>
+				</step>
+				<step start="1639151730000" stop="1639151730000" status="passed">
+					<name>237</name>
+					<title>Форма "Обработка.икМобильноеПриложение.Форма.ФормаПредседатель365"</title>
+					<steps>
+						<step start="1639151731000" stop="1639151731000" status="passed">
+							<name>238</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151731000" stop="1639151731000" status="passed">
+					<name>239</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икНастройкиПени"</title>
+					<steps/>
+				</step>
+				<step start="1639151731000" stop="1639151731000" status="passed">
+					<name>240</name>
+					<title>Форма "Обработка.икНастройкиПени.Форма.НастройкиПени"</title>
+					<steps>
+						<step start="1639151731000" stop="1639151731000" status="passed">
+							<name>241</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151732000" stop="1639151732000" status="passed">
+					<name>242</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икОтзывПлатежныхДокументовГИСЖКХ"</title>
+					<steps/>
+				</step>
+				<step start="1639151732000" stop="1639151732000" status="passed">
+					<name>243</name>
+					<title>Форма "Обработка.икОтзывПлатежныхДокументовГИСЖКХ.Форма.Форма"</title>
+					<steps>
+						<step start="1639151732000" stop="1639151732000" status="passed">
+							<name>244</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151733000" stop="1639151733000" status="passed">
+					<name>245</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икОтправкаСМССообщений"</title>
+					<steps/>
+				</step>
+				<step start="1639151733000" stop="1639151733000" status="passed">
+					<name>246</name>
+					<title>Форма "Обработка.икОтправкаСМССообщений.Форма.Форма"</title>
+					<steps>
+						<step start="1639151733000" stop="1639151733000" status="passed">
+							<name>247</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151733000" stop="1639151733000" status="passed">
+					<name>248</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икПакетнаяОбработкаУведомлений"</title>
+					<steps/>
+				</step>
+				<step start="1639151734000" stop="1639151734000" status="passed">
+					<name>249</name>
+					<title>Форма "Обработка.икПакетнаяОбработкаУведомлений.Форма.Форма"</title>
+					<steps>
+						<step start="1639151734000" stop="1639151734000" status="passed">
+							<name>250</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151734000" stop="1639151734000" status="passed">
+					<name>251</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икПомощникЗаполненияДанныхХарактеристикПрочихОбъектов"</title>
+					<steps/>
+				</step>
+				<step start="1639151734000" stop="1639151734000" status="passed">
+					<name>252</name>
+					<title>Форма "Обработка.икПомощникЗаполненияДанныхХарактеристикПрочихОбъектов.Форма.Форма"</title>
+					<steps>
+						<step start="1639151735000" stop="1639151735000" status="passed">
+							<name>253</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151735000" stop="1639151735000" status="passed">
+					<name>254</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икРаботаСДолжниками"</title>
+					<steps/>
+				</step>
+				<step start="1639151735000" stop="1639151735000" status="passed">
+					<name>255</name>
+					<title>Форма "Обработка.икРаботаСДолжниками.Форма.Форма"</title>
+					<steps>
+						<step start="1639151736000" stop="1639151736000" status="passed">
+							<name>256</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151736000" stop="1639151736000" status="passed">
+					<name>257</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икРазделениеЛицевыхСчетовПоДолям"</title>
+					<steps/>
+				</step>
+				<step start="1639151736000" stop="1639151736000" status="passed">
+					<name>258</name>
+					<title>Форма "Обработка.икРазделениеЛицевыхСчетовПоДолям.Форма.Форма"</title>
+					<steps>
+						<step start="1639151736000" stop="1639151736000" status="passed">
+							<name>259</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151737000" stop="1639151737000" status="passed">
+					<name>260</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икСверткаИнформационнойБазы"</title>
+					<steps/>
+				</step>
+				<step start="1639151737000" stop="1639151737000" status="passed">
+					<name>261</name>
+					<title>Форма "Обработка.икСверткаИнформационнойБазы.Форма.Форма"</title>
+					<steps>
+						<step start="1639151737000" stop="1639151737000" status="passed">
+							<name>262</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151738000" stop="1639151738000" status="passed">
+					<name>263</name>
+					<title>Отправка писем</title>
+					<steps/>
+				</step>
+				<step start="1639151738000" stop="1639151738000" status="passed">
+					<name>264</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икСистемаЛицензирования"</title>
+					<steps/>
+				</step>
+				<step start="1639151738000" stop="1639151738000" status="passed">
+					<name>265</name>
+					<title>Форма "Система лицензирования: Система лицензирования"</title>
+					<steps>
+						<step start="1639151738000" stop="1639151738000" status="passed">
+							<name>266</name>
+							<title>Нажать на кнопку "Ввести ключ активации"</title>
+							<steps/>
+						</step>
+						<step start="1639151738000" stop="1639151738000" status="passed">
+							<name>267</name>
+							<title>Форма "Ввод ключа активации"</title>
+							<steps>
+								<step start="1639151739000" stop="1639151739000" status="passed">
+									<name>268</name>
+									<title>В поле "InputFld" ввести текст "BP2URPFS7NSB6XTTR3QEWKVX3DAUXVC2DRNNVAV2XJTH1LI5646HQMZBZUTQ5BSEYFI5KR2SSBGLXSJWBDQSQ6B5Z6MNQ46IL5Y6U6WM1CKIADXTYGDCEM</title>
+									<steps/>
+								</step>
+								<step start="1639151739000" stop="1639151739000" status="passed">
+									<name>269</name>
+									<title>Нажать на кнопку командной панели "OK"</title>
+									<steps/>
+								</step>
+							</steps>
+						</step>
+						<step start="1639151740000" stop="1639151740000" status="passed">
+							<name>270</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151740000" stop="1639151740000" status="passed">
+					<name>271</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икРассылкаПлатежныхДокументов"</title>
+					<steps/>
+				</step>
+				<step start="1639151740000" stop="1639151740000" status="passed">
+					<name>272</name>
+					<title>Форма "Рассылка платежных документов"</title>
+					<steps>
+						<step start="1639151743000" stop="1639151743000" status="passed">
+							<name>273</name>
+							<title>Нажать кнопку командного интерфейса формы "Адресная книга"</title>
+							<steps/>
+						</step>
+						<step start="1639151743000" stop="1639151743000" status="passed">
+							<name>274</name>
+							<title>Форма "Адресная книга: Рассылка платежных документов"</title>
+							<steps>
+								<step start="1639151743000" stop="1639151743000" status="passed">
+									<name>275</name>
+									<title>Нажать на надпись "за"</title>
+									<steps/>
+								</step>
+								<step start="1639151743000" stop="1639151743000" status="passed">
+									<name>276</name>
+									<title>Форма "Выбор периода"</title>
+									<steps>
+										<step start="1639151744000" stop="1639151744000" status="passed">
+											<name>277</name>
+											<title>Нажать на кнопку "март"</title>
+											<steps/>
+										</step>
+									</steps>
+								</step>
+								<step start="1639151744000" stop="1639151744000" status="passed">
+									<name>278</name>
+									<title>Таблица "Список"</title>
+									<steps>
+										<step start="1639151747000" stop="1639151747000" status="passed">
+											<name>279</name>
+											<title>От начала таблицы вниз найти строку</title>
+											<steps/>
+										</step>
+									</steps>
+								</step>
+								<step start="1639151747000" stop="1639151747000" status="passed">
+									<name>280</name>
+									<title>Таблица "ЛицевыеСчета"</title>
+									<steps>
+										<step start="1639151776000" stop="1639151776000" status="passed">
+											<name>281</name>
+											<title>Сравнить всю таблицу с эталонным значением, хранящимся в шаге</title>
+											<steps/>
+										</step>
+									</steps>
+								</step>
+								<step start="1639151776000" stop="1639151776000" status="passed">
+									<name>282</name>
+									<title>Нажать на кнопку командной панели "Сформировать рассылку"</title>
+									<steps/>
+								</step>
+								<step start="1639151791000" stop="1639151791000" status="passed">
+									<name>283</name>
+									<title>Подождать 15 сек</title>
+									<steps/>
+								</step>
+								<step start="1639151791000" stop="1639151791000" status="passed">
+									<name>284</name>
+									<title>Форма "Рассылка (создание)"</title>
+									<steps>
+										<step start="1639151791000" stop="1639151791000" status="passed">
+											<name>285</name>
+											<title>У поля ввода "Учетная запись" установить значение "silichev@infocraft.ru"</title>
+											<steps/>
+										</step>
+										<step start="1639151791000" stop="1639151791000" status="passed">
+											<name>286</name>
+											<title>У поля ввода "Шаблон сообщения" установить значение "Шаблон SendPulse (по умолчанию)"</title>
+											<steps/>
+										</step>
+										<step start="1639151792000" stop="1639151792000" status="passed">
+											<name>287</name>
+											<title>У поля ввода "Дата" нажать Выбрать</title>
+											<steps/>
+										</step>
+										<step start="1639151792000" stop="1639151792000" status="passed">
+											<name>288</name>
+											<title>В поле "Дата" ввести текст "01.04.2021 00:00:00"</title>
+											<steps/>
+										</step>
+										<step start="1639151792000" stop="1639151792000" status="passed">
+											<name>289</name>
+											<title>Таблица "ЛицевыеСчета"</title>
+											<steps>
+												<step start="1639151793000" stop="1639151793000" status="passed">
+													<name>290</name>
+													<title>Сравнить всю таблицу с эталонным значением, хранящимся в шаге</title>
+													<steps/>
+												</step>
+											</steps>
+										</step>
+										<step start="1639151793000" stop="1639151793000" status="passed">
+											<name>291</name>
+											<title>Нажать на кнопку командной панели "Отправить"</title>
+											<steps/>
+										</step>
+										<step start="1639151804000" stop="1639151804000" status="passed">
+											<name>292</name>
+											<title>Подождать 10 сек</title>
+											<steps/>
+										</step>
+										<step start="1639151804000" stop="1639151804000" status="passed">
+											<name>293</name>
+											<title>Закрыть окно текущей формы</title>
+											<steps/>
+										</step>
+										<step start="1639151819000" stop="1639151819000" status="passed">
+											<name>294</name>
+											<title>Подождать 15 сек</title>
+											<steps/>
+										</step>
+									</steps>
+								</step>
+							</steps>
+						</step>
+						<step start="1639151820000" stop="1639151820000" status="passed">
+							<name>295</name>
+							<title>Нажать кнопку командного интерфейса формы "Рассылка"</title>
+							<steps/>
+						</step>
+						<step start="1639151840000" stop="1639151840000" status="passed">
+							<name>296</name>
+							<title>Подождать 20 сек</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151840000" stop="1639151840000" status="passed">
+					<name>297</name>
+					<title>Форма "Рассылка"</title>
+					<steps>
+						<step start="1639151841000" stop="1639151841000" status="passed">
+							<name>298</name>
+							<title>Таблица "Список"</title>
+							<steps>
+								<step start="1639151841000" stop="1639151841000" status="passed">
+									<name>299</name>
+									<title>Выбрать текущую строку таблицы</title>
+									<steps/>
+								</step>
+								<step start="1639151841000" stop="1639151841000" status="passed">
+									<name>300</name>
+									<title>Форма "Рассылка 00-000001 от 01.04.2021 0:00:50"</title>
+									<steps>
+										<step start="1639151842000" stop="1639151842000" status="passed">
+											<name>301</name>
+											<title>Нажать на кнопку "Обновить статистику"</title>
+											<steps/>
+										</step>
+										<step start="1639151857000" stop="1639151857000" status="passed">
+											<name>302</name>
+											<title>Подождать 15 сек</title>
+											<steps/>
+										</step>
+										<step start="1639151857000" stop="1639151857000" status="passed">
+											<name>303</name>
+											<title>Закрыть окно текущей формы</title>
+											<steps/>
+										</step>
+									</steps>
+								</step>
+							</steps>
+						</step>
+						<step start="1639151858000" stop="1639151858000" status="passed">
+							<name>304</name>
+							<title>Нажать на кнопку командной панели "Обновить"</title>
+							<steps/>
+						</step>
+						<step start="1639151873000" stop="1639151873000" status="passed">
+							<name>305</name>
+							<title>Подождать 15 сек</title>
+							<steps/>
+						</step>
+						<step start="1639151873000" stop="1639151873000" status="passed">
+							<name>306</name>
+							<title>Таблица "Список"</title>
+							<steps>
+								<step start="1639151882000" stop="1639151882000" status="failed">
+									<name>307</name>
+									<title>Сравнить всю таблицу с эталонным значением, хранящимся в шаге</title>
+									<attachments>
+										<attachment title="Screen_2" source="BB9B1C6F230A0B316A4F86489E12F2E7-attachment.png" type="image/png"/>
+									</attachments>
+									<steps/>
+								</step>
+							</steps>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151883000" stop="1639151883000" status="passed">
+					<name>308</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икСистемаЛицензирования"</title>
+					<steps/>
+				</step>
+				<step start="1639151883000" stop="1639151883000" status="passed">
+					<name>309</name>
+					<title>Форма "Система лицензирования: Система лицензирования"</title>
+					<steps>
+						<step start="1639151883000" stop="1639151883000" status="passed">
+							<name>310</name>
+							<title>Нажать на кнопку "Ввести ключ активации"</title>
+							<steps/>
+						</step>
+						<step start="1639151883000" stop="1639151883000" status="passed">
+							<name>311</name>
+							<title>Форма "Ввод ключа активации"</title>
+							<steps>
+								<step start="1639151884000" stop="1639151884000" status="passed">
+									<name>312</name>
+									<title>В поле "InputFld" ввести текст "4UHPNUZMCRM4DLQQNGT1IXJKG65PLK7H6NRRAJAVLWQ2EYWBDAD3TWF5FKGBB4M2LQ4X7PHVQMZMLHVC5M373S4CFCSY3TDYXEKPHUI3I1IRI1I1I1IZJ1</title>
+									<steps/>
+								</step>
+								<step start="1639151884000" stop="1639151884000" status="passed">
+									<name>313</name>
+									<title>Нажать на кнопку командной панели "OK"</title>
+									<steps/>
+								</step>
+							</steps>
+						</step>
+						<step start="1639151884000" stop="1639151884000" status="passed">
+							<name>314</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151885000" stop="1639151885000" status="passed">
+					<name>315</name>
+					<title>"15558 Смена расчетного периода".</title>
+					<steps/>
+				</step>
+				<step start="1639151885000" stop="1639151885000" status="passed">
+					<name>316</name>
+					<title>Перейти по навигационной ссылке "e1cib/command/ОбщаяКоманда.икОткрытьФормуСменаРасчетногоПериода"</title>
+					<steps/>
+				</step>
+				<step start="1639151885000" stop="1639151885000" status="passed">
+					<name>324</name>
+					<title>Перейти по навигационной ссылке "e1cib/list/РегистрСведений.икТекущиеРасчетныеПериоды"</title>
+					<steps/>
+				</step>
+				<step start="1639151886000" stop="1639151886000" status="passed">
+					<name>325</name>
+					<title>Форма "Текущие расчетные периоды"</title>
+					<steps>
+						<step start="1639151886000" stop="1639151886000" status="passed">
+							<name>326</name>
+							<title>Таблица "Список"</title>
+							<steps>
+								<step start="1639151886000" stop="1639151886000" status="passed">
+									<name>327</name>
+									<title>Выбрать текущую строку таблицы</title>
+									<steps/>
+								</step>
+								<step start="1639151886000" stop="1639151886000" status="passed">
+									<name>328</name>
+									<title>Форма активная</title>
+									<steps>
+										<step start="1639151887000" stop="1639151887000" status="passed">
+											<name>329</name>
+											<title>У поля ввода "Расчетный период" установить значение "01.03.2021"</title>
+											<steps/>
+										</step>
+										<step start="1639151887000" stop="1639151887000" status="passed">
+											<name>330</name>
+											<title>Нажать на кнопку командной панели "Записать и закрыть"</title>
+											<steps/>
+										</step>
+									</steps>
+								</step>
+							</steps>
+						</step>
+						<step start="1639151887000" stop="1639151887000" status="passed">
+							<name>331</name>
+							<title>Закрыть окно текущей формы</title>
+							<steps/>
+						</step>
+					</steps>
+				</step>
+				<step start="1639151888000" stop="1639151888000" status="passed">
+					<name>332</name>
+					<title>Перейти по навигационной ссылке "e1cib/app/Обработка.икДомОкей"</title>
+					<steps/>
+				</step>
+				<step start="1639151903000" stop="1639151903000" status="passed">
+					<name>333</name>
+					<title>Подождать 15 сек</title>
+					<steps/>
+				</step>
+				<step start="1639151909000" stop="1639151909000" status="failed">
+					<name>334</name>
+					<title>Форма "1С:Предприятие"</title>
+					<attachments>
+						<attachment title="Screen_1" source="F6E6144F46C860148C2A61761251406D-attachment.png" type="image/png"/>
+					</attachments>
+					<steps/>
+				</step>
+			</steps>
+		</test-case>
+		<test-case start="1639151914000" stop="1639151914000" status="canceled" severity="normal">
+			<name>ab6457e5-9fa0-435f-9ea6-f1e8488f0d1b</name>
+			<title>Закрыть тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151914000" stop="1639151914000" status="canceled" severity="normal">
+			<name>da5e7683-5a39-479b-9ba7-f0612bed9988</name>
+			<title>1.0.28.1, Формула ЖКЖ (ИБ файловая, 8.3.18.1433)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>bf59680f-8b06-42a0-b60a-980700e4ad95</name>
+			<title>Запустить тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>ecc65d3f-4cb0-4923-adb0-de743f48f26a</name>
+			<title>Открыть сценарий для выполнения (Общие формы)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>028d1bef-91b7-4fb3-9c60-c9dfff4ddddc</name>
+			<title>Выполнить интерактивные шаги</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+			<steps/>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>42896483-a88e-45fe-9bac-9b38922e9705</name>
+			<title>Закрыть тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151915000" stop="1639151915000" status="canceled" severity="normal">
+			<name>f3d88461-5ef8-4654-84cf-b166d08768aa</name>
+			<title>1.0.28.1, Формула ЖКЖ (ИБ файловая, 8.3.18.1433) НЕ ЗАПУСКАТЬ</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>91c873b3-bfc4-4e89-968b-03ab2a4ddc1f</name>
+			<title>Создать тестовую ИБ из архива: "ЛичныйКабинет" (Smoke Testing (Формула))</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>42c4be63-7b80-4988-96b8-bd5205e7f6ab</name>
+			<title>Обновить ИБ</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>17c4957b-4635-45b8-86b9-b64901211362</name>
+			<title>Запустить тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>5750efb9-6695-448b-b65d-68ded6ffdc4c</name>
+			<title>Пауза</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>f1627e2c-2b6f-446b-a998-2c4634c98cd3</name>
+			<title>Открыть сценарий для выполнения</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>1f00ad50-b4fe-4959-961f-43a96ad16079</name>
+			<title>Выполнить интерактивные шаги</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+			<steps/>
+		</test-case>
+		<test-case start="1639151916000" stop="1639151916000" status="canceled" severity="normal">
+			<name>42ad0f1a-9773-47ad-baed-bf71e636fe47</name>
+			<title>1.0.28.1, Формула ЖКЖ (ИБ файловая, 8.3.18.1433)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>23b98b94-e069-449b-a056-e4b91e8680fb</name>
+			<title>Создание пустой базы и ее запуск</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>10544353-3caf-431f-ab12-651e3631875d</name>
+			<title>Создать новую ИБ по шаблону (\\FGKHDistrib\testing\Пакетное выполнение\Пакет_0000008\1Cv8.cf)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>daea74b3-026e-4a72-b37c-206a569a8665</name>
+			<title>Запустить тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>866e42ab-7f51-4897-bd3a-7ddf84546a1a</name>
+			<title>Пауза</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>a6479cbc-a558-4811-b64c-11423807b194</name>
+			<title>Открыть сценарий для выполнения</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>ebee09d4-bc56-4c39-b556-8756ade62727</name>
+			<title>Выполнить интерактивные шаги</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+			<steps/>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>d2048d86-6a16-4ed3-b9d7-19bfbface894</name>
+			<title>Закрыть тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="1639151916000" stop="1639151916000" status="canceled" severity="normal">
+			<name>606ba725-c647-4fb1-84c1-7dc8f10cb9b0</name>
+			<title>1.0.28.1, Формула ЖКЖ (ИБ файловая, 8.3.18.1433)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>ed4dc2b4-6bdf-4b15-a638-d847c991bddf</name>
+			<title>Создать тестовую ИБ из архива: "Обновление базы с расширением" (Smoke Testing (Формула))</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>a8e1b4c0-7efc-43b6-9236-4a1298be5d5a</name>
+			<title>Обновить ИБ (\\FGKHDistrib\testing\Пакетное выполнение\Пакет_0000008\1Cv8.cf)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>559d9333-c899-40c6-a58f-7bacaf8d037e</name>
+			<title>Пакетный запуск предприятия (подключение)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>f6658f7a-2b68-404d-b00c-f2985c35abaa</name>
+			<title>Пакетный запуск предприятия (включение)</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>307fb739-77e8-478f-84f1-fd9ae948fe26</name>
+			<title>Запустить тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>d4bfdb79-08cd-4e1e-aa99-1c8ca6ea6e7f</name>
+			<title>Пауза</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>4abd9786-bd6d-4e5d-995a-a6cb1e09697c</name>
+			<title>Закрыть тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>bcddcbfc-58e7-4b98-bf7f-55bd412795ce</name>
+			<title>Запустить тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>67bc9722-61ae-4979-8fc0-eb0f627e5804</name>
+			<title>Открыть сценарий для выполнения</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>e0b28fab-685b-42a0-b1ce-1f979ed04c7b</name>
+			<title>Выполнить интерактивные шаги</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+			<steps/>
+		</test-case>
+		<test-case start="0" stop="-62135596800000" status="skipped" severity="normal">
+			<name>65e55047-3fe1-4303-9f83-412b80349775</name>
+			<title>Закрыть тестируемое приложение</title>
+			<failure>
+				<message/>
+				<stack-trace/>
+			</failure>
+		</test-case>
+	</test-cases>
+</test-suite-result>
