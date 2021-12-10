@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <test-suite-result xmlns="urn:model.allure.qatools.yandex.ru" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" start="1639151590000" stop="1639151917000" version="Версия, но где ее взять">
 	<name xmlns="">Smoke test (запускать при каждом обновлении)</name>
 	<title xmlns=""/>
